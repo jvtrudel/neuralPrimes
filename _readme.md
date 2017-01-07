@@ -55,3 +55,6 @@ Pendant la conception du réseau de neuronne, toujours tenir compte de la capaci
   - [Wikipédia en français](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels)
   - [Wikipédia en anglais](https://en.wikipedia.org/wiki/Artificial_neural_network)
   - [Introduction et application simple en python](http://neuralnetworksanddeeplearning.com/chap1.html)
+  - [OpenNN: librairie en c++](http://www.opennn.net/)
+  - [Keras: librairie en python](https://keras.io/)
+  - [FANN: librairie en c](https://github.com/libfann/fann)

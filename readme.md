@@ -37,4 +37,7 @@
 <li><a href="https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels">Wikipédia en français</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Artificial_neural_network">Wikipédia en anglais</a></li>
 <li><a href="http://neuralnetworksanddeeplearning.com/chap1.html">Introduction et application simple en python</a></li>
+<li><a href="http://www.opennn.net/">OpenNN: librairie en c++</a></li>
+<li><a href="https://keras.io/">Keras: librairie en python</a></li>
+<li><a href="https://github.com/libfann/fann">FANN: librairie en c</a></li>
 </ul>
