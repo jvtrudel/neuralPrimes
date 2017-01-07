@@ -14,7 +14,7 @@ Concevoir un réseau de neurone capable de déterminer si un nombre entier est p
 
   - Combien de temps faut-il pour en trainer le réseau de neurones?
 
-  - En admettant que l'on puisse trouver une solution  pour $n$ décimales? Combien de temps supplémentaire cela prendra-t-il pour trouver une solution pour $n+1$ neuronnes?
+  - En admettant que l'on puisse trouver une solution  pour $n$ décimales? Combien de temps supplémentaire cela prendra-t-il pour trouver une solution pour n+1 neuronnes?
 
 ## Deep Learning
 
@@ -48,7 +48,7 @@ Pendant la conception du réseau de neuronne, toujours tenir compte de la capaci
 
   - [Généralité sur les nombres premiers](http://www.nombres-premiers.fr/) (contient surtout quelques liens intéressants vers des listes de nombres premiers)
   - [site internet du projet GIMPS](http://www.mersenne.org/download/#source)
-  - [Neural Networks Following a Binary Approach Applied to the Integer Prime-Factorization Problem](doc/ijcnn05_jansen.pdf)
+  - [Neural Networks Following a Binary Approach Applied to the Integer Prime-Factorization Problem](http://dspace.lib.kanazawa-u.ac.jp/dspace/bitstream/2297/6796/1/TE-PR-NAKAYAMA-K-2577.pdf)
 
 ## Réseaux de neurones
 
